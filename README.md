@@ -10,6 +10,7 @@ I made that alone with C# and Unity without assets.
 - My first real project on GitHub
 - Finished minigame for 1 day
 - Big interest on making more games
+- Built without physics
 
 Author: George Dimitrov <br>
 Date: 20.09.2016
