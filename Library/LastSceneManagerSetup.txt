@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/SimpleParticlePack/_Scenes/SimpleParticlePack.unity
+  isLoaded: 1
+  isActive: 1
